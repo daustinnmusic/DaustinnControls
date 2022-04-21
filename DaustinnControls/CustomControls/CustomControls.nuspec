@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>daustinn.code.DaustinnControls</id>
+    <version>1.0.0</version>
+    <title>Daustinn Custom Controlss</title>
+    <authors>Daustinn</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://www.youtube.com/c/Daustinnm/</projectUrl>
+    <description>Music, programer</description>
+    <releaseNotes>constrols Custom</releaseNotes>
+    <copyright>copyright 2022</copyright>
+    <tags>C#, .Net</tags>
+  </metadata>
+</package>
